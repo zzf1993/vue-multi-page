@@ -1,6 +1,6 @@
 # demo
 
-> A Vue.js project
+> vue的多页应用配置
 
 ## Build Setup
 
